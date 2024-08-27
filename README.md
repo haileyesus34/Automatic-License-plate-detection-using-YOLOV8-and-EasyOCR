@@ -1,0 +1,1 @@
+ This project develops a real-time vehicle and license plate recognition system. It uses YOLOv8 for detecting cars and license plates from live video feeds and EasyOCR for reading the license plate numbers.![Screenshot 2024-08-06 012409](https://github.com/user-attachments/assets/1b121eae-7a50-47f5-83d1-7b4a68edaf35)
